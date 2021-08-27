@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import Results from "./components/Results.vue";
+// import Results from "./components/Results.vue";
 import Block from "./components/Block.vue";
 
 export default {
